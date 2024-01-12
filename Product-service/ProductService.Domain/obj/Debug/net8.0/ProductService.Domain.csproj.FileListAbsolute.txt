@@ -1,0 +1,11 @@
+C:\Users\HOANG DAT\source\repos\Product-service\ProductService.Domain\bin\Debug\net8.0\ProductService.Domain.deps.json
+C:\Users\HOANG DAT\source\repos\Product-service\ProductService.Domain\bin\Debug\net8.0\ProductService.Domain.dll
+C:\Users\HOANG DAT\source\repos\Product-service\ProductService.Domain\bin\Debug\net8.0\ProductService.Domain.pdb
+C:\Users\HOANG DAT\source\repos\Product-service\ProductService.Domain\obj\Debug\net8.0\ProductService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOANG DAT\source\repos\Product-service\ProductService.Domain\obj\Debug\net8.0\ProductService.Domain.AssemblyInfoInputs.cache
+C:\Users\HOANG DAT\source\repos\Product-service\ProductService.Domain\obj\Debug\net8.0\ProductService.Domain.AssemblyInfo.cs
+C:\Users\HOANG DAT\source\repos\Product-service\ProductService.Domain\obj\Debug\net8.0\ProductService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\HOANG DAT\source\repos\Product-service\ProductService.Domain\obj\Debug\net8.0\ProductService.Domain.dll
+C:\Users\HOANG DAT\source\repos\Product-service\ProductService.Domain\obj\Debug\net8.0\refint\ProductService.Domain.dll
+C:\Users\HOANG DAT\source\repos\Product-service\ProductService.Domain\obj\Debug\net8.0\ProductService.Domain.pdb
+C:\Users\HOANG DAT\source\repos\Product-service\ProductService.Domain\obj\Debug\net8.0\ref\ProductService.Domain.dll

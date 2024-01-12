@@ -1,0 +1,2 @@
+obj\Debug\net8.0\gRPC\Client\Product/Product.cs \
+obj\Debug\net8.0\gRPC\Client\Product/ProductGrpc.cs: gRPC/Client/Product/Product.proto

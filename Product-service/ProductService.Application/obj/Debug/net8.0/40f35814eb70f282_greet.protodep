@@ -1,0 +1,2 @@
+obj\Debug\net8.0\gRPC\Server/Greet.cs \
+obj\Debug\net8.0\gRPC\Server/GreetGrpc.cs: gRPC/Server/greet.proto

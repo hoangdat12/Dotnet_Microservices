@@ -1,0 +1,11 @@
+C:\Users\HOANG DAT\source\repos\Order-service\OrderService.Domain\bin\Debug\net8.0\OrderService.Domain.deps.json
+C:\Users\HOANG DAT\source\repos\Order-service\OrderService.Domain\bin\Debug\net8.0\OrderService.Domain.dll
+C:\Users\HOANG DAT\source\repos\Order-service\OrderService.Domain\bin\Debug\net8.0\OrderService.Domain.pdb
+C:\Users\HOANG DAT\source\repos\Order-service\OrderService.Domain\obj\Debug\net8.0\OrderService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOANG DAT\source\repos\Order-service\OrderService.Domain\obj\Debug\net8.0\OrderService.Domain.AssemblyInfoInputs.cache
+C:\Users\HOANG DAT\source\repos\Order-service\OrderService.Domain\obj\Debug\net8.0\OrderService.Domain.AssemblyInfo.cs
+C:\Users\HOANG DAT\source\repos\Order-service\OrderService.Domain\obj\Debug\net8.0\OrderService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\HOANG DAT\source\repos\Order-service\OrderService.Domain\obj\Debug\net8.0\OrderService.Domain.dll
+C:\Users\HOANG DAT\source\repos\Order-service\OrderService.Domain\obj\Debug\net8.0\refint\OrderService.Domain.dll
+C:\Users\HOANG DAT\source\repos\Order-service\OrderService.Domain\obj\Debug\net8.0\OrderService.Domain.pdb
+C:\Users\HOANG DAT\source\repos\Order-service\OrderService.Domain\obj\Debug\net8.0\ref\OrderService.Domain.dll

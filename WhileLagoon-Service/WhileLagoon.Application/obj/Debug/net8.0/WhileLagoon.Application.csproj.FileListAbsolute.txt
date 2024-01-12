@@ -1,0 +1,15 @@
+C:\Users\HOANG DAT\source\repos\WhileLagoon-Service\WhileLagoon.Application\bin\Debug\net8.0\WhileLagoon.Application.deps.json
+C:\Users\HOANG DAT\source\repos\WhileLagoon-Service\WhileLagoon.Application\bin\Debug\net8.0\WhileLagoon.Application.dll
+C:\Users\HOANG DAT\source\repos\WhileLagoon-Service\WhileLagoon.Application\bin\Debug\net8.0\WhileLagoon.Application.pdb
+C:\Users\HOANG DAT\source\repos\WhileLagoon-Service\WhileLagoon.Application\bin\Debug\net8.0\WhileLagoon.Domain.dll
+C:\Users\HOANG DAT\source\repos\WhileLagoon-Service\WhileLagoon.Application\bin\Debug\net8.0\WhileLagoon.Domain.pdb
+C:\Users\HOANG DAT\source\repos\WhileLagoon-Service\WhileLagoon.Application\obj\Debug\net8.0\WhileLagoon.Application.csproj.AssemblyReference.cache
+C:\Users\HOANG DAT\source\repos\WhileLagoon-Service\WhileLagoon.Application\obj\Debug\net8.0\WhileLagoon.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOANG DAT\source\repos\WhileLagoon-Service\WhileLagoon.Application\obj\Debug\net8.0\WhileLagoon.Application.AssemblyInfoInputs.cache
+C:\Users\HOANG DAT\source\repos\WhileLagoon-Service\WhileLagoon.Application\obj\Debug\net8.0\WhileLagoon.Application.AssemblyInfo.cs
+C:\Users\HOANG DAT\source\repos\WhileLagoon-Service\WhileLagoon.Application\obj\Debug\net8.0\WhileLagoon.Application.csproj.CoreCompileInputs.cache
+C:\Users\HOANG DAT\source\repos\WhileLagoon-Service\WhileLagoon.Application\obj\Debug\net8.0\WhileLagoon.Application.csproj.CopyComplete
+C:\Users\HOANG DAT\source\repos\WhileLagoon-Service\WhileLagoon.Application\obj\Debug\net8.0\WhileLagoon.Application.dll
+C:\Users\HOANG DAT\source\repos\WhileLagoon-Service\WhileLagoon.Application\obj\Debug\net8.0\refint\WhileLagoon.Application.dll
+C:\Users\HOANG DAT\source\repos\WhileLagoon-Service\WhileLagoon.Application\obj\Debug\net8.0\WhileLagoon.Application.pdb
+C:\Users\HOANG DAT\source\repos\WhileLagoon-Service\WhileLagoon.Application\obj\Debug\net8.0\ref\WhileLagoon.Application.dll

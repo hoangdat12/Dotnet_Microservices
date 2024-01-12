@@ -1,0 +1,2 @@
+obj\Debug\net8.0\gRPC\Server/Inventory.cs \
+obj\Debug\net8.0\gRPC\Server/InventoryGrpc.cs: gRPC/Server/Inventory.proto

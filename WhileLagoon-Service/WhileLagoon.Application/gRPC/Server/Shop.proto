@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option csharp_namespace = "ShopGRPCService";
+
+package ShopGRPC;
+
+service ShopGRPC {
+  rpc GetShop (GetShopReq) returns (GetShopRes);
+}
+
+message GetShopReq {
+  string ShopId = 1;
+}
+
+message GetShopRes {
+  string Id = 1;
+  repeated string ShopOwner = 2;
+  string ShopName = 3;
+  string ShopAvatar = 4;
+}

@@ -1,0 +1,17 @@
+C:\Users\HOANG DAT\source\repos\WhileLagoon-Service\WhileLagoon.Infrastructure\bin\Debug\net8.0\WhileLagoon.Infrastructure.deps.json
+C:\Users\HOANG DAT\source\repos\WhileLagoon-Service\WhileLagoon.Infrastructure\bin\Debug\net8.0\WhileLagoon.Infrastructure.dll
+C:\Users\HOANG DAT\source\repos\WhileLagoon-Service\WhileLagoon.Infrastructure\bin\Debug\net8.0\WhileLagoon.Infrastructure.pdb
+C:\Users\HOANG DAT\source\repos\WhileLagoon-Service\WhileLagoon.Infrastructure\bin\Debug\net8.0\WhileLagoon.Application.dll
+C:\Users\HOANG DAT\source\repos\WhileLagoon-Service\WhileLagoon.Infrastructure\bin\Debug\net8.0\WhileLagoon.Domain.dll
+C:\Users\HOANG DAT\source\repos\WhileLagoon-Service\WhileLagoon.Infrastructure\bin\Debug\net8.0\WhileLagoon.Application.pdb
+C:\Users\HOANG DAT\source\repos\WhileLagoon-Service\WhileLagoon.Infrastructure\bin\Debug\net8.0\WhileLagoon.Domain.pdb
+C:\Users\HOANG DAT\source\repos\WhileLagoon-Service\WhileLagoon.Infrastructure\obj\Debug\net8.0\WhileLagoon.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\HOANG DAT\source\repos\WhileLagoon-Service\WhileLagoon.Infrastructure\obj\Debug\net8.0\WhileLagoon.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOANG DAT\source\repos\WhileLagoon-Service\WhileLagoon.Infrastructure\obj\Debug\net8.0\WhileLagoon.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\HOANG DAT\source\repos\WhileLagoon-Service\WhileLagoon.Infrastructure\obj\Debug\net8.0\WhileLagoon.Infrastructure.AssemblyInfo.cs
+C:\Users\HOANG DAT\source\repos\WhileLagoon-Service\WhileLagoon.Infrastructure\obj\Debug\net8.0\WhileLagoon.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\HOANG DAT\source\repos\WhileLagoon-Service\WhileLagoon.Infrastructure\obj\Debug\net8.0\WhileLagoon.Infrastructure.csproj.CopyComplete
+C:\Users\HOANG DAT\source\repos\WhileLagoon-Service\WhileLagoon.Infrastructure\obj\Debug\net8.0\WhileLagoon.Infrastructure.dll
+C:\Users\HOANG DAT\source\repos\WhileLagoon-Service\WhileLagoon.Infrastructure\obj\Debug\net8.0\refint\WhileLagoon.Infrastructure.dll
+C:\Users\HOANG DAT\source\repos\WhileLagoon-Service\WhileLagoon.Infrastructure\obj\Debug\net8.0\WhileLagoon.Infrastructure.pdb
+C:\Users\HOANG DAT\source\repos\WhileLagoon-Service\WhileLagoon.Infrastructure\obj\Debug\net8.0\ref\WhileLagoon.Infrastructure.dll

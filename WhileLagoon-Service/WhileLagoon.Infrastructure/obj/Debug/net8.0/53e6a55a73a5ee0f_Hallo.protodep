@@ -1,0 +1,2 @@
+obj\Debug\net8.0\gRPC\Client\Product/Hallo.cs \
+obj\Debug\net8.0\gRPC\Client\Product/HalloGrpc.cs: gRPC/Client/Product/Hallo.proto

@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OrderService.Domain\OrderService.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Contract\Infrastructure\" />
+    <Folder Include="Feature\OrderFeature\Query\" />
+    <Folder Include="gRPC\Client\" />
+    <Folder Include="gRPC\Server\" />
+    <Folder Include="MappingProfile\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Protobuf Include="**\Client\*.proto" GrpcServices="Client" />
+    <Protobuf Include="**\Server\*.proto" GrpcServices="Server" />
+
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+    <PackageReference Include="Grpc.AspNetCore" Version="2.60.0" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.1.0" />
+  </ItemGroup>
+
+</Project>

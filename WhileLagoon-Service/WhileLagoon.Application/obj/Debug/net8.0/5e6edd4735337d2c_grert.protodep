@@ -1,0 +1,2 @@
+obj\Debug\net8.0\gRPC\Client/Grert.cs \
+obj\Debug\net8.0\gRPC\Client/GrertGrpc.cs: gRPC/Client/grert.proto

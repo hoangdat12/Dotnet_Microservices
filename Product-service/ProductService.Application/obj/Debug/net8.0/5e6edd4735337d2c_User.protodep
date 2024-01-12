@@ -1,0 +1,2 @@
+obj\Debug\net8.0\gRPC\Client/User.cs \
+obj\Debug\net8.0\gRPC\Client/UserGrpc.cs: gRPC/Client/User.proto

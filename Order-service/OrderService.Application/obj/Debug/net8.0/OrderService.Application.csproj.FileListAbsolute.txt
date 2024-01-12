@@ -1,0 +1,15 @@
+C:\Users\HOANG DAT\source\repos\Order-service\OrderService.Application\bin\Debug\net8.0\OrderService.Application.deps.json
+C:\Users\HOANG DAT\source\repos\Order-service\OrderService.Application\bin\Debug\net8.0\OrderService.Application.dll
+C:\Users\HOANG DAT\source\repos\Order-service\OrderService.Application\bin\Debug\net8.0\OrderService.Application.pdb
+C:\Users\HOANG DAT\source\repos\Order-service\OrderService.Application\bin\Debug\net8.0\OrderService.Domain.dll
+C:\Users\HOANG DAT\source\repos\Order-service\OrderService.Application\bin\Debug\net8.0\OrderService.Domain.pdb
+C:\Users\HOANG DAT\source\repos\Order-service\OrderService.Application\obj\Debug\net8.0\OrderService.Application.csproj.AssemblyReference.cache
+C:\Users\HOANG DAT\source\repos\Order-service\OrderService.Application\obj\Debug\net8.0\OrderService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOANG DAT\source\repos\Order-service\OrderService.Application\obj\Debug\net8.0\OrderService.Application.AssemblyInfoInputs.cache
+C:\Users\HOANG DAT\source\repos\Order-service\OrderService.Application\obj\Debug\net8.0\OrderService.Application.AssemblyInfo.cs
+C:\Users\HOANG DAT\source\repos\Order-service\OrderService.Application\obj\Debug\net8.0\OrderService.Application.csproj.CoreCompileInputs.cache
+C:\Users\HOANG DAT\source\repos\Order-service\OrderService.Application\obj\Debug\net8.0\OrderService.Application.csproj.CopyComplete
+C:\Users\HOANG DAT\source\repos\Order-service\OrderService.Application\obj\Debug\net8.0\OrderService.Application.dll
+C:\Users\HOANG DAT\source\repos\Order-service\OrderService.Application\obj\Debug\net8.0\refint\OrderService.Application.dll
+C:\Users\HOANG DAT\source\repos\Order-service\OrderService.Application\obj\Debug\net8.0\OrderService.Application.pdb
+C:\Users\HOANG DAT\source\repos\Order-service\OrderService.Application\obj\Debug\net8.0\ref\OrderService.Application.dll

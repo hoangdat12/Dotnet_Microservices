@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option csharp_namespace = "InventoryGRPCService";
+
+package InventoryGRPC;
+
+service InventoryGRPC {
+  rpc GetInventory (GetInventoryReq) returns (GetInventoryRes);
+}
+
+message GetInventoryReq {
+  string ProductId = 1;
+}
+
+message GetInventoryRes {
+  string ProductId = 1;
+  string ShopId = 2;
+  int32 Quantity = 3;
+}

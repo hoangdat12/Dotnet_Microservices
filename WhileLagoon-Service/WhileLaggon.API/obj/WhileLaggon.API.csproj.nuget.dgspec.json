@@ -1,0 +1,404 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\HOANG DAT\\source\\repos\\WhileLagoon-Service\\WhileLaggon.API\\WhileLaggon.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\HOANG DAT\\source\\repos\\WhileLagoon-Service\\WhileLaggon.API\\WhileLaggon.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HOANG DAT\\source\\repos\\WhileLagoon-Service\\WhileLaggon.API\\WhileLaggon.API.csproj",
+        "projectName": "WhileLaggon.API",
+        "projectPath": "C:\\Users\\HOANG DAT\\source\\repos\\WhileLagoon-Service\\WhileLaggon.API\\WhileLaggon.API.csproj",
+        "packagesPath": "C:\\Users\\HOANG DAT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HOANG DAT\\source\\repos\\WhileLagoon-Service\\WhileLaggon.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HOANG DAT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\HOANG DAT\\source\\repos\\WhileLagoon-Service\\WhileLagoon.Application\\WhileLagoon.Application.csproj": {
+                "projectPath": "C:\\Users\\HOANG DAT\\source\\repos\\WhileLagoon-Service\\WhileLagoon.Application\\WhileLagoon.Application.csproj"
+              },
+              "C:\\Users\\HOANG DAT\\source\\repos\\WhileLagoon-Service\\WhileLagoon.Infrastructure\\WhileLagoon.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\HOANG DAT\\source\\repos\\WhileLagoon-Service\\WhileLagoon.Infrastructure\\WhileLagoon.Infrastructure.csproj"
+              },
+              "C:\\Users\\HOANG DAT\\source\\repos\\WhileLagoon-Service\\WhileLagoon.Persistence\\WhileLagoon.Persistence.csproj": {
+                "projectPath": "C:\\Users\\HOANG DAT\\source\\repos\\WhileLagoon-Service\\WhileLagoon.Persistence\\WhileLagoon.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HOANG DAT\\source\\repos\\WhileLagoon-Service\\WhileLagoon.Application\\WhileLagoon.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HOANG DAT\\source\\repos\\WhileLagoon-Service\\WhileLagoon.Application\\WhileLagoon.Application.csproj",
+        "projectName": "WhileLagoon.Application",
+        "projectPath": "C:\\Users\\HOANG DAT\\source\\repos\\WhileLagoon-Service\\WhileLagoon.Application\\WhileLagoon.Application.csproj",
+        "packagesPath": "C:\\Users\\HOANG DAT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HOANG DAT\\source\\repos\\WhileLagoon-Service\\WhileLagoon.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HOANG DAT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\HOANG DAT\\source\\repos\\WhileLagoon-Service\\WhileLagoon.Domain\\WhileLagoon.Domain.csproj": {
+                "projectPath": "C:\\Users\\HOANG DAT\\source\\repos\\WhileLagoon-Service\\WhileLagoon.Domain\\WhileLagoon.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AWSSDK.S3": {
+              "target": "Package",
+              "version": "[3.7.305, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "Grpc.AspNetCore": {
+              "target": "Package",
+              "version": "[2.57.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HOANG DAT\\source\\repos\\WhileLagoon-Service\\WhileLagoon.Domain\\WhileLagoon.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HOANG DAT\\source\\repos\\WhileLagoon-Service\\WhileLagoon.Domain\\WhileLagoon.Domain.csproj",
+        "projectName": "WhileLagoon.Domain",
+        "projectPath": "C:\\Users\\HOANG DAT\\source\\repos\\WhileLagoon-Service\\WhileLagoon.Domain\\WhileLagoon.Domain.csproj",
+        "packagesPath": "C:\\Users\\HOANG DAT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HOANG DAT\\source\\repos\\WhileLagoon-Service\\WhileLagoon.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HOANG DAT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HOANG DAT\\source\\repos\\WhileLagoon-Service\\WhileLagoon.Infrastructure\\WhileLagoon.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HOANG DAT\\source\\repos\\WhileLagoon-Service\\WhileLagoon.Infrastructure\\WhileLagoon.Infrastructure.csproj",
+        "projectName": "WhileLagoon.Infrastructure",
+        "projectPath": "C:\\Users\\HOANG DAT\\source\\repos\\WhileLagoon-Service\\WhileLagoon.Infrastructure\\WhileLagoon.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\HOANG DAT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HOANG DAT\\source\\repos\\WhileLagoon-Service\\WhileLagoon.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HOANG DAT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\HOANG DAT\\source\\repos\\WhileLagoon-Service\\WhileLagoon.Application\\WhileLagoon.Application.csproj": {
+                "projectPath": "C:\\Users\\HOANG DAT\\source\\repos\\WhileLagoon-Service\\WhileLagoon.Application\\WhileLagoon.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AWSSDK.S3": {
+              "target": "Package",
+              "version": "[3.7.305, )"
+            },
+            "Grpc.AspNetCore.Server": {
+              "target": "Package",
+              "version": "[2.60.0, )"
+            },
+            "Grpc.Core": {
+              "target": "Package",
+              "version": "[2.46.6, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Caching.StackExchangeRedis": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HOANG DAT\\source\\repos\\WhileLagoon-Service\\WhileLagoon.Persistence\\WhileLagoon.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HOANG DAT\\source\\repos\\WhileLagoon-Service\\WhileLagoon.Persistence\\WhileLagoon.Persistence.csproj",
+        "projectName": "WhileLagoon.Persistence",
+        "projectPath": "C:\\Users\\HOANG DAT\\source\\repos\\WhileLagoon-Service\\WhileLagoon.Persistence\\WhileLagoon.Persistence.csproj",
+        "packagesPath": "C:\\Users\\HOANG DAT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HOANG DAT\\source\\repos\\WhileLagoon-Service\\WhileLagoon.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HOANG DAT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\HOANG DAT\\source\\repos\\WhileLagoon-Service\\WhileLagoon.Application\\WhileLagoon.Application.csproj": {
+                "projectPath": "C:\\Users\\HOANG DAT\\source\\repos\\WhileLagoon-Service\\WhileLagoon.Application\\WhileLagoon.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

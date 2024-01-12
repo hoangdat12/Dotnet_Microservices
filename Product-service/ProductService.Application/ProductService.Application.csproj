@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="RabbitMQ.Client" Version="6.8.1" />
+    <Protobuf Include="**\Client\*.proto" GrpcServices="Client" />
+    <Protobuf Include="**\Server\*.proto" GrpcServices="Server" />
+    <Compile Remove="gRPC\NewFolder\**" />
+    <EmbeddedResource Remove="gRPC\NewFolder\**" />
+    <None Remove="gRPC\NewFolder\**" />
+    <Protobuf Remove="gRPC\NewFolder\**" />
+
+    <PackageReference Include="MassTransit" Version="8.0.16" />
+    <PackageReference Include="Polly" Version="8.2.1" />
+    <PackageReference Include="Grpc.AspNetCore" Version="2.57.0" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+    <PackageReference Include="FluentValidation" Version="11.8.1" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ProductService.Domain\ProductService.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

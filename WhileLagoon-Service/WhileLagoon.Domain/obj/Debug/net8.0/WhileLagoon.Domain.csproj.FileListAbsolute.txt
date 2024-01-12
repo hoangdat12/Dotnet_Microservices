@@ -1,0 +1,11 @@
+C:\Users\HOANG DAT\source\repos\WhileLagoon-Service\WhileLagoon.Domain\bin\Debug\net8.0\WhileLagoon.Domain.deps.json
+C:\Users\HOANG DAT\source\repos\WhileLagoon-Service\WhileLagoon.Domain\bin\Debug\net8.0\WhileLagoon.Domain.dll
+C:\Users\HOANG DAT\source\repos\WhileLagoon-Service\WhileLagoon.Domain\bin\Debug\net8.0\WhileLagoon.Domain.pdb
+C:\Users\HOANG DAT\source\repos\WhileLagoon-Service\WhileLagoon.Domain\obj\Debug\net8.0\WhileLagoon.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOANG DAT\source\repos\WhileLagoon-Service\WhileLagoon.Domain\obj\Debug\net8.0\WhileLagoon.Domain.AssemblyInfoInputs.cache
+C:\Users\HOANG DAT\source\repos\WhileLagoon-Service\WhileLagoon.Domain\obj\Debug\net8.0\WhileLagoon.Domain.AssemblyInfo.cs
+C:\Users\HOANG DAT\source\repos\WhileLagoon-Service\WhileLagoon.Domain\obj\Debug\net8.0\WhileLagoon.Domain.csproj.CoreCompileInputs.cache
+C:\Users\HOANG DAT\source\repos\WhileLagoon-Service\WhileLagoon.Domain\obj\Debug\net8.0\WhileLagoon.Domain.dll
+C:\Users\HOANG DAT\source\repos\WhileLagoon-Service\WhileLagoon.Domain\obj\Debug\net8.0\refint\WhileLagoon.Domain.dll
+C:\Users\HOANG DAT\source\repos\WhileLagoon-Service\WhileLagoon.Domain\obj\Debug\net8.0\WhileLagoon.Domain.pdb
+C:\Users\HOANG DAT\source\repos\WhileLagoon-Service\WhileLagoon.Domain\obj\Debug\net8.0\ref\WhileLagoon.Domain.dll
